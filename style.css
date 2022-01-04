@@ -1,0 +1,17 @@
+body {
+  background: rgb(221, 217, 217);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+ul {
+  list-style-type: armenian;
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px;
+  text-align: center;
+}
